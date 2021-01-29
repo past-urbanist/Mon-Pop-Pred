@@ -23,7 +23,7 @@ Instructor: Tao Liu, Peking University, Beijing, P. R. China
 
 Urban Atlas Dataset (2012) has covered almost every city throughout Europe with 84 cities in Italy. Considering Italy has initiatively and significantly influenced by the pandemic since January, 2020, I have taken Italy as a case for monthly population prediction. 
 
-<img src="/img/Study Area.png" alt="Study Area" width="50%" style="margin-left:25%">
+<img src="https://github.com/past-urbanist/Mon-Pop-Pred/blob/main/img/Study Area.png" alt="Study Area" width="50%" style="margin-left:25%">
 
 <div style="text-align:center">Figure 1. Study Area (<i>Source</i>: Authors)</div>
 
@@ -33,7 +33,7 @@ This study has adopted the gridded measurement  (0.04 &deg; × 0.04 &deg;), whic
 
 The major essence is to predict population through night-time light. To achieve it, the controlled variables are proposed as city id, land cover, road length, distance to city centre, and DEM. All of the controlled variables and the dependent variable (population density) are obtained directly or indirectly from EEA Copernicus Program, after resampled into grids. Most of these variables can be regarded constant (city id, DEM, etc.) or changed little (road length, distance to city centre).
 
-<br><img src="/img/Data.png" alt="Data Sample" width="50%" style="margin-left:25%">
+<br><img src="https://github.com/past-urbanist/Mon-Pop-Pred/blob/main/Data.png" alt="Data Sample" width="50%" style="margin-left:25%">
 
 <div style="text-align:center">Figure 2. Data Sample (A case in in Roma) (<i>Source</i>: Authors)</div>
 
