@@ -41,7 +41,7 @@ The major essence is to predict population through night-time light. To achieve 
 
 I am currently trying different models (Decision Trees, Random Forest, SVM, and Deep Learning) for the optimal outcomes.
 
-In short, for now, Random Forest proves the best (R<sup>2</sup> = 0.79). Since I am still trying more possibilities, it can be updated any time. 
+In short, for now, Random Forest proves the best (R<sup>2</sup> = 0.808). Since I am still trying more possibilities, it can be updated any time. 
 
 ## Step 3: Population Distribution Analysis
 
