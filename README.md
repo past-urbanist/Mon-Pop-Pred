@@ -1,4 +1,4 @@
-# How Coronavirus impacts population distribution? Monthly Population Prediction Based on Machine Learning and Satellite Imagery: Evidence from Italy, 2020
+# How Coronavirus impacts population distribution? Monthly Population Prediction Based on Machine Learning and Satellite Imagery: Evidence from Europe, 2020
 
 ### !!! This is the ongoing program of mine which is being updated from time to time. 
 
